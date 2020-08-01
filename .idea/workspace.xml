@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="789f3aad-fecb-4b01-b835-b64d39b1ab94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Anchiovi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Mozarella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Pickle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/PizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ChocolateIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DoubleScoopIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/GummyBearIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SingleScoopIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitutionPrinciple/src/Roller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SINGLERESPONSIBILITYPRINCIPLE/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SINGLERESPONSIBILITYPRINCIPLE/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SINGLERESPONSIBILITYPRINCIPLE/src/constant/EngineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SINGLERESPONSIBILITYPRINCIPLE/src/constant/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/AgressivePointsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/ConservativePointGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiskovSubstitutionPrinciple/src/BoardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitutionPrinciple/src/BoardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiskovSubstitutionPrinciple/src/DiceRoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitutionPrinciple/src/DiceRoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotCMS/src/main/java/com/dotcms/util/PaginationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dotCMS/src/main/java/com/dotcms/util/PaginationUtil.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Us9NsT5XnFaoLUcfRm49sT7IG1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DecoratorPatternIceCream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789f3aad-fecb-4b01-b835-b64d39b1ab94" name="Default Changelist" comment="" />
+      <created>1576322207177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576322207177</updated>
+      <workItem from="1576322215118" duration="2100000" />
+      <workItem from="1576396632892" duration="591000" />
+      <workItem from="1576479549755" duration="494000" />
+      <workItem from="1576651954736" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
